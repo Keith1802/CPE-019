@@ -1,4 +1,3 @@
-# CPE-019
 # Hello, Amiel Keith Ramos!
 
 ## About Me
